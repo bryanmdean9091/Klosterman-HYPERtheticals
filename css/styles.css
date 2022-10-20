@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+}
+
+.contentWrap {
+    padding-bottom: 7rem;
+}
+
+h1 {
+    color: white;
+    font-size: 3.5rem;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.submit {
+    font-size: 1.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+    border: .15rem solid white;
+}
+* {
+    border: .05 solid white;
+}
+.container-fluid {
+    position: relative;
+    min-height: 100vh;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.queryBox {
+    margin-top: 7rem;
+    height: auto;
+    width: 100%;
+   
+}
+
+p {
+    font-size: 1.25rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    padding-left: 2rem;
+    padding-right: 2rem;
+   
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 7rem; 
+    background-color: black; 
+}
+
+.footCopy {
+    color: white;
+    font-size: .75rem;
+   
+}
